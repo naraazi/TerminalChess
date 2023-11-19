@@ -7,7 +7,7 @@ import chess.ChessPiece;
 import chess.Color;
 
 public class Pawn extends ChessPiece {
-    private ChessMatch chessMatch;
+    private final ChessMatch chessMatch;
 
     public Pawn(Board board, Color color, ChessMatch chessMatch) {
         super(board, color);
