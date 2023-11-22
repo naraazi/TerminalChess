@@ -13,7 +13,9 @@ public class Bishop extends ChessPiece {
 
     @Override
     public String toString() {
-        return "B";
+        return "♝"; //unicode black Bishop
+        //return "♗"; -> unicode white Bishop
+        //return "B"; -> String
     }
 
     @Override

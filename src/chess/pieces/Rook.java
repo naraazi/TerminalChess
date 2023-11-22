@@ -12,7 +12,9 @@ public class Rook extends ChessPiece {
 
     @Override
     public String toString() {
-        return "R";
+        return "♜"; //unicode black Rook
+        //return "♖"; -> unicode white Rook
+        //return "R"; -> String
     }
 
     @Override

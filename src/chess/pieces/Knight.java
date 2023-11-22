@@ -12,7 +12,9 @@ public class Knight extends ChessPiece {
 
     @Override
     public String toString() {
-        return "N";
+        return "♞"; //unicode black Knight
+        //return "♘"; -> unicode white Knight
+        //return "N"; -> String
     }
 
     private boolean canMove(Position position) {

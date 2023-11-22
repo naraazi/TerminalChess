@@ -103,6 +103,8 @@ public class Pawn extends ChessPiece {
 
     @Override
     public String toString() {
-        return "P";
+        return "♟"; //unicode black Pawn
+        //return "♙"; -> unicode white Pawn
+        //return "P"; -> String
     }
 }

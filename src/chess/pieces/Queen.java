@@ -12,7 +12,9 @@ public class Queen extends ChessPiece {
 
     @Override
     public String toString() {
-        return "Q";
+        return "♛"; //unicode black Queen
+        //return "♕"; -> unicode white Queen
+        //return "Q"; -> String
     }
 
     @Override
