@@ -31,8 +31,6 @@ Este projeto é distribuído sob a [Licença MIT](LICENSE).
 ## Observação
 O projeto é livre para uso e modificações, ajude a melhorá-lo se gostar.
 
-# --------------------------------------------------
-
 # Terminal Chess Game in Java (EN)
 
 This is a chess game in Java, created as part of a personal project.
