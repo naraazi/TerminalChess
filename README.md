@@ -1,4 +1,4 @@
-# Jogo de Xadrez de Terminal em Java (Português)
+# Jogo de Xadrez de Terminal em Java (PT-BR)
 
 Este é um jogo de xadrez em Java, criado como parte de um projeto pessoal.
 Dois jogadores podem participar um por vez no mesmo terminal.
@@ -31,7 +31,9 @@ Este projeto é distribuído sob a [Licença MIT](LICENSE).
 ## Observação
 O projeto é livre para uso e modificações, ajude a melhorá-lo se gostar.
 
-# Terminal Chess Game in Java
+# ----------
+
+# Terminal Chess Game in Java (EN)
 
 This is a chess game in Java, created as part of a personal project.
 Two players can take turns playing on the same terminal.
