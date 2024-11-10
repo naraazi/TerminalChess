@@ -1,4 +1,4 @@
-# Jogo de Xadrez de Terminal em Java (PT-BR)
+# Jogo de Xadrez de Terminal em Java
 
 Este é um jogo de xadrez em Java, criado como parte de um projeto pessoal.
 Dois jogadores podem participar um por vez no mesmo terminal.
@@ -30,36 +30,3 @@ Este projeto é distribuído sob a [Licença MIT](LICENSE).
 
 ## Observação
 O projeto é livre para uso e modificações, ajude a melhorá-lo se gostar.
-
-# Terminal Chess Game in Java (EN)
-
-This is a chess game in Java, created as part of a personal project.
-Two players can take turns playing on the same terminal.
-
-## Requirements
-- Java 8 or higher.
-- The game has color support: if you are using Windows, you need to use GitBash, otherwise, the colors won't work.
-
-## How to Play
-1. Clone the repository to your computer.
-2. Compile the Java source code: Using an IDE is easier, but to compile in the terminal:
-``` bash
-javac *.java
-```
-3. Run the game from the main class 'Program':
-``` bash
-java application.Program
-```
-4. The game will be ready to play: in 'source' enter the piece you want to move (e.g. c2) and press Enter.
-In 'target', enter where you want to place the piece (e.g. c5). The colors on the board indicate the available moves.
-
-## Features
-- The chess game follows the standard chess rules.
-- You can play against another player on the same computer.
-- The game has a basic graphical representation of the chessboard.
-
-## License
-Este projeto é distribuído sob a [Licença MIT](LICENSE).
-
-## Note
-The project is free for use and modifications, feel free to contribute if you like it.
